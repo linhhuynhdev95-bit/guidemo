@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 71bf480d56d620444bf323b5956995f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6033428479728012046
+    second: ButtonsNIcons_0
+  - first:
+      213: 220332314999331749
+    second: ButtonsNIcons_1
+  - first:
+      213: 6187318204925131003
+    second: ButtonsNIcons_2
+  - first:
+      213: -4815554797888099671
+    second: ButtonsNIcons_3
+  - first:
+      213: 7191688076518395043
+    second: ButtonsNIcons_4
+  - first:
+      213: -7722236216418248501
+    second: ButtonsNIcons_5
+  - first:
+      213: 2563816117138035138
+    second: ButtonsNIcons_6
+  - first:
+      213: 357037401396042275
+    second: ButtonsNIcons_7
+  - first:
+      213: -5077907908636790220
+    second: ButtonsNIcons_8
+  - first:
+      213: 2928016574235517666
+    second: ButtonsNIcons_9
+  - first:
+      213: -8829788949430365828
+    second: ButtonsNIcons_10
+  - first:
+      213: -1262636916385151508
+    second: ButtonsNIcons_11
+  - first:
+      213: 7569852265416025724
+    second: ButtonsNIcons_12
+  - first:
+      213: -6781443152979341792
+    second: ButtonsNIcons_13
+  - first:
+      213: 3031623439441279656
+    second: ButtonsNIcons_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _ButtonsNIcons_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 842
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b76bdbcb07574f8f1548fdc240a2e
+      internalID: 401637214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 770
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c730abf89318441a3b2c5faf7a667e
+      internalID: -593205259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 519
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cbde7314a041d47827ac9acfc119ce
+      internalID: 1752027494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 685
+        width: 215
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a130526bdc333340bc6ef7e4379b0a4
+      internalID: 667320856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 714
+        width: 217
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92101069571074488d481537bfb60cd
+      internalID: -766311726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 690
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7722c22b3e39e674c8eef5778169791c
+      internalID: 669948396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 578
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6f4c22cac46e4fa87e038aa66f0a6
+      internalID: -833151617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 503
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037474ee2744be4b84207862306ea96
+      internalID: -1518718511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 466
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082c64ff8e3a4540a8e305fbd335cc5
+      internalID: 103838118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333b7608d1c2e84ba0e9d65fe21ce1e
+      internalID: 2126797538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 185
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb259d659c29b846a568f3c1c8e9e1e
+      internalID: 1040091400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 266
+        width: 203
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884a6019ebe2fd4690dabfef3b9aadc
+      internalID: -1754445787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 210
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f3f8a6c75890449607bb405525221
+      internalID: 1256996115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa6e976e135b8642ae56c7aaa09ef78
+      internalID: 1233317671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 226
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987c99aabc48c843ab074012bf734a2
+      internalID: -671353274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 37
+        width: 389
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 60, z: 80, w: 70}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f30eb6c124284d9ce66736d8b6911
+      internalID: -376356000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 913
+        width: 233
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08550b6091d07f4ba6fda5b37a71fca
+      internalID: -109671880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 929
+        width: 179
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0b46932d709848ae1f2afe3bd81ee
+      internalID: -904236505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 132
+        width: 152
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c7ce8cb7a9c04fb9d26d20032de76
+      internalID: -683540091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ButtonsNIcons_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 230
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991289b1c8846fd40a80d7931675e315
+      internalID: -751066384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de3e284c53b8f384c98721af0493d618
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _ButtonsNIcons_0: 401637214
+      _ButtonsNIcons_1: -593205259
+      _ButtonsNIcons_10: 1040091400
+      _ButtonsNIcons_11: -1754445787
+      _ButtonsNIcons_12: 1256996115
+      _ButtonsNIcons_13: 1233317671
+      _ButtonsNIcons_14: -671353274
+      _ButtonsNIcons_15: -376356000
+      _ButtonsNIcons_16: -109671880
+      _ButtonsNIcons_17: -904236505
+      _ButtonsNIcons_18: -683540091
+      _ButtonsNIcons_19: -751066384
+      _ButtonsNIcons_2: 1752027494
+      _ButtonsNIcons_3: 667320856
+      _ButtonsNIcons_4: -766311726
+      _ButtonsNIcons_5: 669948396
+      _ButtonsNIcons_6: -833151617
+      _ButtonsNIcons_7: -1518718511
+      _ButtonsNIcons_8: 103838118
+      _ButtonsNIcons_9: 2126797538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
